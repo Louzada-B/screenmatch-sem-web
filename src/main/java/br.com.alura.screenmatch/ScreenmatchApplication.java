@@ -26,5 +26,3 @@ public class ScreenmatchApplication implements CommandLineRunner {
         System.out.println(dados);
     }
 }
-
-// Somente teste de atualização
